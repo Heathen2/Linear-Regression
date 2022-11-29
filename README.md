@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear Regression as part of  Supervised Machine Learning: Regression and Classification course in Coursera
+Linear Regression implemented as part of Supervised Machine Learning: Regression and Classification course in Coursera
